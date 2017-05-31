@@ -1,0 +1,6 @@
+c:\users\bchukhno\documents\visual studio 2015\Projects\Advent of Code 2016 Day 1 with TDD\Advent of Code 2016 Day 1 with TDD\bin\Debug\Advent of Code 2016 Day 1 with TDD.exe.config
+c:\users\bchukhno\documents\visual studio 2015\Projects\Advent of Code 2016 Day 1 with TDD\Advent of Code 2016 Day 1 with TDD\bin\Debug\Advent of Code 2016 Day 1 with TDD.exe
+c:\users\bchukhno\documents\visual studio 2015\Projects\Advent of Code 2016 Day 1 with TDD\Advent of Code 2016 Day 1 with TDD\bin\Debug\Advent of Code 2016 Day 1 with TDD.pdb
+c:\users\bchukhno\documents\visual studio 2015\Projects\Advent of Code 2016 Day 1 with TDD\Advent of Code 2016 Day 1 with TDD\obj\Debug\Advent of Code 2016 Day 1 with TDD.csprojResolveAssemblyReference.cache
+c:\users\bchukhno\documents\visual studio 2015\Projects\Advent of Code 2016 Day 1 with TDD\Advent of Code 2016 Day 1 with TDD\obj\Debug\Advent of Code 2016 Day 1 with TDD.exe
+c:\users\bchukhno\documents\visual studio 2015\Projects\Advent of Code 2016 Day 1 with TDD\Advent of Code 2016 Day 1 with TDD\obj\Debug\Advent of Code 2016 Day 1 with TDD.pdb

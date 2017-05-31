@@ -1,0 +1,8 @@
+c:\users\bchukhno\documents\visual studio 2015\Projects\Advent of Code 2016 Day 1 with TDD\Advent of Code 2016 Day 1 with TDDTests\bin\Debug\Advent of Code 2016 Day 1 with TDDTests.dll
+c:\users\bchukhno\documents\visual studio 2015\Projects\Advent of Code 2016 Day 1 with TDD\Advent of Code 2016 Day 1 with TDDTests\bin\Debug\Advent of Code 2016 Day 1 with TDDTests.pdb
+c:\users\bchukhno\documents\visual studio 2015\Projects\Advent of Code 2016 Day 1 with TDD\Advent of Code 2016 Day 1 with TDDTests\bin\Debug\Advent of Code 2016 Day 1 with TDD.exe
+c:\users\bchukhno\documents\visual studio 2015\Projects\Advent of Code 2016 Day 1 with TDD\Advent of Code 2016 Day 1 with TDDTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\bchukhno\documents\visual studio 2015\Projects\Advent of Code 2016 Day 1 with TDD\Advent of Code 2016 Day 1 with TDDTests\bin\Debug\Advent of Code 2016 Day 1 with TDD.pdb
+c:\users\bchukhno\documents\visual studio 2015\Projects\Advent of Code 2016 Day 1 with TDD\Advent of Code 2016 Day 1 with TDDTests\obj\Debug\Advent of Code 2016 Day 1 with TDDTests.csprojResolveAssemblyReference.cache
+c:\users\bchukhno\documents\visual studio 2015\Projects\Advent of Code 2016 Day 1 with TDD\Advent of Code 2016 Day 1 with TDDTests\obj\Debug\Advent of Code 2016 Day 1 with TDDTests.dll
+c:\users\bchukhno\documents\visual studio 2015\Projects\Advent of Code 2016 Day 1 with TDD\Advent of Code 2016 Day 1 with TDDTests\obj\Debug\Advent of Code 2016 Day 1 with TDDTests.pdb
