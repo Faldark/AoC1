@@ -6,12 +6,9 @@ using System.Threading.Tasks;
 
 namespace Advent_of_Code_2016_Day_1_with_TDD
 {
-    class Program
+    public class Coordinates
     {
-        static void Main(string[] args)
-        {
-            Console.WriteLine(2-4);
-            Console.ReadLine();
-        }
+        public int X { get; set; } = 0;
+        public int Y { get; set; } = 0;
     }
 }
