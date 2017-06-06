@@ -4,3 +4,5 @@ c:\users\bchukhno\documents\visual studio 2015\Projects\Advent of Code 2016 Day 
 c:\users\bchukhno\documents\visual studio 2015\Projects\Advent of Code 2016 Day 1 with TDD\Advent of Code 2016 Day 1 with TDD\obj\Debug\Advent of Code 2016 Day 1 with TDD.csprojResolveAssemblyReference.cache
 c:\users\bchukhno\documents\visual studio 2015\Projects\Advent of Code 2016 Day 1 with TDD\Advent of Code 2016 Day 1 with TDD\obj\Debug\Advent of Code 2016 Day 1 with TDD.exe
 c:\users\bchukhno\documents\visual studio 2015\Projects\Advent of Code 2016 Day 1 with TDD\Advent of Code 2016 Day 1 with TDD\obj\Debug\Advent of Code 2016 Day 1 with TDD.pdb
+C:\Users\Bchukhno\documents\visual studio 2015\Projects\Advent of Code 2016 Day 1 with TDD\Advent of Code 2016 Day 1 with TDD\bin\Debug\KellermanSoftware.Compare-NET-Objects.dll
+C:\Users\Bchukhno\documents\visual studio 2015\Projects\Advent of Code 2016 Day 1 with TDD\Advent of Code 2016 Day 1 with TDD\bin\Debug\KellermanSoftware.Compare-NET-Objects.xml

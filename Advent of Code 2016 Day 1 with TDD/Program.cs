@@ -10,7 +10,12 @@ namespace Advent_of_Code_2016_Day_1_with_TDD
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(2-4);
+            DataGetter getter = new DataGetter();
+            Coordinator coordinator = new Coordinator();
+            Coordinates coordinates = new Coordinates();
+            coordinates = coordinator.CalculateFinalCoordsFromDirectionsAdditionalStar(getter.ReturnArrayWithCoords());
+            //Console.WriteLine("X:{0} \r\n Y:{1}", coordinates.X, coordinates.Y);
+            Console.WriteLine("Answer is {0}", Math.Abs(coordinates.X) + Math.Abs(coordinates.Y));
             Console.ReadLine();
         }
     }

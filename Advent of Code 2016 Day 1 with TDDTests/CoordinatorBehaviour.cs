@@ -2,6 +2,8 @@
 using System.Collections.Generic;
 using System.Security.Cryptography.X509Certificates;
 using Advent_of_Code_2016_Day_1_with_TDD;
+
+using KellermanSoftware.CompareNetObjects;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
 namespace Advent_of_Code_2016_Day_1_with_TDDTests
@@ -39,7 +41,12 @@ namespace Advent_of_Code_2016_Day_1_with_TDDTests
             //when
             Coordinates calculatedCoordinates = coordinator.CalculateFinalCoordsFromDirections(inputDirections);
             //then
-            Assert.AreEqual(properCoordinates, calculatedCoordinates, "something went wrong with calculating final coords for input directions");
+            CompareLogic compare = new CompareLogic();
+            Assert.IsTrue(compare.Compare(properCoordinates, calculatedCoordinates).AreEqual, "something went wrong with calculating final coords for input directions");
+            
+
+
+            //Assert.AreEqual(properCoordinates, calculatedCoordinates, );
         }
     }
 }

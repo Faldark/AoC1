@@ -38,7 +38,7 @@ namespace Advent_of_Code_2016_Day_1_with_TDDTests
         {
             //given
             DataGetter getter = new DataGetter();
-            string properArrayPattern = @"(.)(\d)";
+            string properArrayPattern = @"(.)(\d+)";
             Regex r = new Regex(properArrayPattern, RegexOptions.IgnoreCase);
             
             //when
